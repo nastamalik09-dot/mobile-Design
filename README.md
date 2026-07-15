@@ -27,3 +27,9 @@ Mobile Design — Figma Practice
 **Цель:** Стать уверенным Junior Product Designer / UX/UI + No-Code специалистом.
 
 **Дата старта:** Июнь 2026
+
+ Мой первый лендинг на Tilda
+
+**Публичная ссылка:** [uxui-nastya.tilda.ws](https://uxui-nastya.tilda.ws/page153676496.html)
+
+Первый лендинг-портфолио, созданный с нуля в Tilda (Zero Block).
