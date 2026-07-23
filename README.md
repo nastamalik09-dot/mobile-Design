@@ -30,7 +30,7 @@ Mobile Design — Figma Practice
 
  Мой первый лендинг на Tilda
 
-**Публичная ссылка:** [uxui-nastya.tilda.ws](https://uxui-nastya.tilda.ws/page153676496.html)
+**Публичная ссылка:** [uxui-nastya.tilda.ws](https://junior-uxui.tilda.ws/home)
 
 Первый лендинг-портфолио, созданный с нуля в Tilda (Zero Block).
 
