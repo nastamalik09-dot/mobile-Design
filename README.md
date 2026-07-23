@@ -38,4 +38,4 @@ Mobile Design — Figma Practice
 
 **Публичная ссылка:** [junior-uxui.tilda.ws](https://junior-uxui.tilda.ws/home)
 
-Современное портфолио Junior Product Designer, созданное с нуля в Tilda (Zero Block).
+Современное портфолио Product Designer, созданное с нуля в Tilda (Zero Block).
