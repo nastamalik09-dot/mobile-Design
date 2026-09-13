@@ -28,11 +28,11 @@ Mobile Design — Figma Practice
 
 **Дата старта:** Июнь 2026
 
- Мой первый лендинг на Tilda
+ Portfolio 2.0 (Tilda)
 
-**Публичная ссылка:** [uxui-nastya.tilda.ws](https://junior-uxui.tilda.ws/home)
+**Живая версия:** [junior-uxui.tilda.ws](https://junior-uxui.tilda.ws/home)
 
-Первый лендинг-портфолио, созданный с нуля в Tilda (Zero Block).
+Современное портфолио Junior Product Designer, созданное в Tilda (Zero Block) с градиентами и анимациями.
 
  Мой второй лендинг-портфолио на Tilda
 
